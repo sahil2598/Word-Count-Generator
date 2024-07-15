@@ -1,4 +1,3 @@
-# Illumio Technical Assessment
 # Word Count Generator
 
 ## Author
